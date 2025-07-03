@@ -17,7 +17,7 @@
 | 🔠 [**KelimeMayinlariFirebase**](https://github.com/Beyza-nur-g/KelimeMayinlariFirebase) | Gerçek zamanlı çift oyunculu kelime oyunu – Firebase senkronizasyonlu, mayın & joker mekanikleriyle |
 | 📅 [**SmartEventPlanner**](https://github.com/Beyza-nur-g/SmartEventPlanner) | Jetpack Compose ile geliştirilen akıllı etkinlik planlayıcı uygulaması |
 | 🧾 [**MakaleAnonimlestirmeSystem**](https://github.com/Beyza-nur-g/MakaleAnonimlestirmeSystem) | Akademik PDF anonimleştirme ve kriptografik yorum güvenliği sistemi |
-| 🍲 [**TarifEtRecipeManager**](https://github.com/Beyza-nur-g/TarifEtRecipeManager) | Malzeme-tabanlı tarif öneri ve filtreleme sistemi – masaüstü uygulaması |
+| 🍲 [**TarifEtRecipeManager**](https://github.com/Beyza-nur-g/TarifEt-RecipeManager) | Malzeme-tabanlı tarif öneri ve filtreleme sistemi – masaüstü uygulaması |
 
 ---
 
